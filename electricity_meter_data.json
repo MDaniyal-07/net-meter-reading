@@ -1,0 +1,16 @@
+{
+  "lastUpdated": "",
+  "currentReadings": {
+    "peakImport": 0,
+    "peakExport": 0,
+    "offPeakImport": 0,
+    "offPeakExport": 0
+  },
+  "previousReadings": {
+    "peakImport": 0,
+    "peakExport": 0,
+    "offPeakImport": 0,
+    "offPeakExport": 0
+  },
+  "historicalData": []
+}
